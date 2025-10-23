@@ -76,10 +76,3 @@ These visualizations help understand the data and model performance.
 - Visualized relationships in the dataset for better understanding.
 
 ---
-
-## How to Run
-
-1. Clone the repository.  
-2. Install required libraries:  
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn
